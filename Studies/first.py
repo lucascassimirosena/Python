@@ -7,7 +7,7 @@ def first():
     if x < 10:
         print('Less than ten')
     elif x < 20:
-        print ('Less than ten')
+        print ('Less than twenty')
     print('All done')
 
 first()
