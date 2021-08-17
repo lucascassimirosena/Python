@@ -1,4 +1,4 @@
-# Numbers can't be concatenated withstring using +, Python will attempt
+# Numbers can't be concatenated with strings using +, Python will attempt
 # addition and then fail.
 # In python every data type can be coerced into a string representation
 
